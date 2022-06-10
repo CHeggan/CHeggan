@@ -9,6 +9,7 @@ I am Calum and i'm am currently pursuing my PhD in few-shot learning and anomaly
 
 - ⚡ A fun fact: My background is actually in Physics and my move into ML has only been in the last few years!
 
+You can find more details about my research including my pulications and blog breakdowns of them at my [GitHub page](https://cheggan.github.io/).
 
 <!--
 **CHeggan/CHeggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
