@@ -1,27 +1,17 @@
-### Hi 👋
+Hi 👋 My name is Calum Heggan
+=============================
 
-I'm Calum and I am currently pursuing my PhD in few-shot learning and anomaly detection at the University Of Edinburgh. 
+PhD Candidate in Few-Shot Learning & Anomaly Detection
+------------------------------------------------------
 
- - 🔭 As of right now most of research is focused around acoustics/time-series signals
- - 👯 Moving into the future I am hoping to release/ jointly work on some tutorials for using audio data in machine-learning applications
- - 💬 I am always happy to answer any questions about my research so please just get in touch! 
- - 📫 The best way to reach is generally by email or on twitter 
+Fun Fact: My background is actually in Physics and my move into ML has only been in the last few years!
 
-- ⚡ A fun fact: My background is actually in Physics and my move into ML has only been in the last few years!
+* 🌍  I'm based in Edinburgh
+* 🖥️  See my portfolio at [my web page here](http://cheggan.github.io/)
+* ✉️  You can contact me at [s1529508@sms.ed.ac.uk](mailto:s1529508@sms.ed.ac.uk)
+* 🧠  I'm learning about self-supervised representation learning
 
-You can find more details about my research including my publications and blog breakdowns of them at my [GitHub page](https://cheggan.github.io/).
 
-<!--
-**CHeggan/CHeggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/CHeggan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/calum-heggan-105a58112/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HegganCalum" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
