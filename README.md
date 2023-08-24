@@ -1,7 +1,7 @@
 Hi 👋 My name is Calum Heggan
 =============================
 
-PhD Candidate in Few-Shot Learning & Anomaly Detection
+PhD Candidate investigating Representation and Few-Shot Learning for Acoustics
 ------------------------------------------------------
 
 * 🌍  I'm based in Edinburgh
