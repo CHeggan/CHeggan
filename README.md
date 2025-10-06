@@ -1,13 +1,12 @@
 Hi 👋 My name is Calum Heggan
 =============================
 
-PhD Candidate investigating Representation and Few-Shot Learning for Acoustics
+PhD Holder in Ml, investigating self-supervisedr representation learning and Few-Shot Learning for Acoustics
 ------------------------------------------------------
 
 * 🌍  I'm based in Edinburgh
 * 🖥️  See my portfolio at [my web page here](http://cheggan.github.io/)
-* ✉️  You can contact me at [s1529508@sms.ed.ac.uk](mailto:s1529508@sms.ed.ac.uk)
-* 🧠  I'm learning about self-supervised representation learning
+* ✉️  You can contact me at [calheggan@hotmail.com](mailto:calheggan@hotmail.com)
 
 
 ### Socials
