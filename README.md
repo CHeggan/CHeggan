@@ -1,7 +1,7 @@
 Hi 👋 My name is Calum Heggan
 =============================
 
-PhD Holder in Ml, investigating self-supervisedr representation learning and Few-Shot Learning for Acoustics
+PhD Holder in Ml, investigating self-supervised representation learning and Few-Shot Learning for Acoustics
 ------------------------------------------------------
 
 * 🌍  I'm based in Edinburgh
